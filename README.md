@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.com/romanmashkovskiy/jest-example.svg?branch=master)](https://travis-ci.com/romanmashkovskiy/jest-example)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f0d80b1272248da381e8/maintainability)](https://codeclimate.com/github/romanmashkovskiy/jest-example/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f0d80b1272248da381e8/test_coverage)](https://codeclimate.com/github/romanmashkovskiy/jest-example/test_coverage)
